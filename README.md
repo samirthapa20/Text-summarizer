@@ -1,7 +1,7 @@
-Text Summarizer Using Python
+#Text Summarizer Using Python
 
-In the Text Summarizer project, I use:
--Python
--Tkinter
--Nltk
--Spacy 
+In the project, I use  Text Summarizer using following platforms:
+a. Python
+b. Tkinter
+c. Nltk
+d. Spacy 
